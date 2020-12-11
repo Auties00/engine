@@ -1,0 +1,4 @@
+{
+  "subdir": "src/third_party/llvm-build/Release+Asserts",
+  "package_name": "flutter/clang/win-amd64"
+}

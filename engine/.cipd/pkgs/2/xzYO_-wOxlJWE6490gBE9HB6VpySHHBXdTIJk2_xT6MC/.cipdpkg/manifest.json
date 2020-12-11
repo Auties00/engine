@@ -1,0 +1,2527 @@
+{
+  "format_version": "1.1",
+  "package_name": "dart/dart-sdk/windows-amd64",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "dart-sdk/LICENSE",
+      "size": 1502,
+      "hash": "PyJRq0_2BHPZvgWCskwhss2-jVJ_FS3QePXM4s5oovoC"
+    },
+    {
+      "name": "dart-sdk/README",
+      "size": 981,
+      "hash": "wadmLnqOqkKVfVZJNdStz03lJyuKdC37JYLj1248EhMC"
+    },
+    {
+      "name": "dart-sdk/bin/dart.exe",
+      "size": 27775488,
+      "hash": "cM0e0ItYUcjUuA8BwZijHpBNs73T-rW5uAmi_dLOh4MC"
+    },
+    {
+      "name": "dart-sdk/bin/dart.lib",
+      "size": 69010,
+      "hash": "JnkREqd7TvVaIpDcV90x7c2QymTsmd6MgFLckWw0BFkC"
+    },
+    {
+      "name": "dart-sdk/bin/dart2js.bat",
+      "size": 1686,
+      "hash": "E7-tXzMcdW9lIXvbL7x5N0yqeOuhJg0vXGPquqzf-FIC"
+    },
+    {
+      "name": "dart-sdk/bin/dart2native.bat",
+      "size": 1501,
+      "hash": "u7a6NNDkO8QgtsspBOhMBvhE5FjOEfMWnSnjjZWK7XMC"
+    },
+    {
+      "name": "dart-sdk/bin/dartanalyzer.bat",
+      "size": 1758,
+      "hash": "7lvmJ-wtmnjEwW-SrVYOJuuyjE_svtTBrqETJ3YAiW0C"
+    },
+    {
+      "name": "dart-sdk/bin/dartaotruntime.exe",
+      "size": 4022784,
+      "hash": "YlUYsM8vVv2TSS1-0q485nXy6qRTJfH9uMUMaXjQBX8C"
+    },
+    {
+      "name": "dart-sdk/bin/dartdevc.bat",
+      "size": 1970,
+      "hash": "y5_NWecUdGFx5XmXzgkdpvFgHmJQxkObDpElX0_USgEC"
+    },
+    {
+      "name": "dart-sdk/bin/dartdoc.bat",
+      "size": 1572,
+      "hash": "CrgALUHI94ZgoYq8XrjEInyclPax1bj6I5Sk-6DG-DUC"
+    },
+    {
+      "name": "dart-sdk/bin/dartfmt.bat",
+      "size": 1514,
+      "hash": "U5OLMn1D7a9zbb5XAfvaorKdcwE_bKUVBUHQ04IFznAC"
+    },
+    {
+      "name": "dart-sdk/bin/pub.bat",
+      "size": 1566,
+      "hash": "rBgI-6kP8d1vNtLyOj7kblTESDXFBIk1ggA5HMpx0-QC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/.packages",
+      "size": 9,
+      "hash": "dtXc10PtI3am-iPdIzQ5JL9ucywmRBUbyiaQSrNUdjUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/URI.js",
+      "size": 28428,
+      "hash": "rj7QJiFTQ-pALWFT3hCUCuGs_gaL455Fz-HTXwqIM0gC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/css/bootstrap.css",
+      "size": 141622,
+      "hash": "yUJoYBDihWM9d6JDQcQ4UMzWFi_MfoKBropwwpIamvUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/css/bootstrap.min.css",
+      "size": 117305,
+      "hash": "8EtRe6XWoFEEhWiaPkLawAD1FkD9cbmGgEy6F46uQqUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/favicon.png",
+      "size": 916,
+      "hash": "RQ2ZHmicMcYCYxAH_Lc3f6-8surfnC9fEqdTRHOL0NwC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/github.css",
+      "size": 1148,
+      "hash": "ja0z-lPRcUPYhi-sdtJJEKlXmCMywxJtCLxCQzKd2K0C"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/highlight.pack.js",
+      "size": 28061,
+      "hash": "QJIICicfM7rszlqX1lVOAkZzNs3_M9mWfkAeC2GjhiUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/play_button.svg",
+      "size": 321,
+      "hash": "QgiDnEaHnbfE25c1uwhi6ubCFU2dJh55Q1ENi2AvHxwC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/readme.md",
+      "size": 217,
+      "hash": "S1DF_0Mt9wF1hjmlRj2IIZ1XyOv_FwliJHDwvWvKDKIC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/script.js",
+      "size": 9259,
+      "hash": "Dh_nDzKNotsVU9mRMK3dIM2WxPYMQ-lSsURpk9uyl-kC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/sdk_footer_text.html",
+      "size": 123,
+      "hash": "iPltfpcs21AV_lkW6SBTHrKgAnY-3PGb4OEnVSs1Y3wC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/sdk_footer_text.md",
+      "size": 68,
+      "hash": "D83MbSkEyYgg3_iBspMgVC6R345mbEQYBDIjBwl1tusC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/styles.css",
+      "size": 15421,
+      "hash": "YFod2Ol0yOJQ37MDzjG9-a_3K2OZpZZu6ad99e5B5uEC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/resources/typeahead.bundle.min.js",
+      "size": 44506,
+      "hash": "ZA-bBTKKj2rKgqw96IjkkZazTWUbroOtZxrzF1ww02AC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/404error.html",
+      "size": 1010,
+      "hash": "kG2vdEpJWj1HiZ1-5GF7UpeTg1_jhsrDyF6pfW3LF0YC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_accessor_getter.html",
+      "size": 240,
+      "hash": "mbKMqa_ZQuiQOT-W-Y2q-42F0SY8uone-E572mIoG-sC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_accessor_setter.html",
+      "size": 288,
+      "hash": "5GVaf5rF3UFysrGL1UcYwN4Eq8RyAcTK2kh7oxBM_hUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_callable.html",
+      "size": 505,
+      "hash": "EObDCWIEFWompB469rrs6VgysyTFWhUyJEXoKEitj8kC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_callable_multiline.html",
+      "size": 319,
+      "hash": "AWdT1t6kaHTfRYgsAO_zYlDBbsFyvwKhWjsEnct5mJ0C"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_categorization.html",
+      "size": 122,
+      "hash": "LRbkavQcwoEM-8qTu3qkgsKrHvwEygtzmBOFA0RzdbAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_class.html",
+      "size": 222,
+      "hash": "pBxFQ7mk0tZ_7s2za_GvDsuwarxdMrODxyUw4GeFdvwC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_constant.html",
+      "size": 398,
+      "hash": "K8DRO7c7He0yj_5zq_kB5bBe8Ph6YqSsW3EOOIdcY2wC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_documentation.html",
+      "size": 117,
+      "hash": "deoyQRRCMmVbKkvEvGy3FevIVtSFcXMSXAB_acifvTsC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_extension.html",
+      "size": 198,
+      "hash": "UvJt9GRYIuOVy9P69BoBL_Ti5_gCU_zHu8ylVAuv5YYC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_feature_set.html",
+      "size": 126,
+      "hash": "BIZeRzWzyEET5W1NuZxNPtqfIcJv3pa73wW-o1_Rm0wC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_features.html",
+      "size": 119,
+      "hash": "RVb6FxA2y1viT8s02F9OmPFadBg3sTNfKOG1eyHR4JUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_footer.html",
+      "size": 947,
+      "hash": "X00kh2wtJ4vCTE2bofoCcq2D4ae7Z9_hkiSKeauJGR0C"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_head.html",
+      "size": 2604,
+      "hash": "X36z6nT8qVPsQRXUeXuIrzzTgPdvraQsDK4Lb1dQVewC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_library.html",
+      "size": 184,
+      "hash": "m4UG3PJmYwbF0ew8COnXgzBPN5of28Px9yrw0jGtSCcC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_mixin.html",
+      "size": 222,
+      "hash": "pBxFQ7mk0tZ_7s2za_GvDsuwarxdMrODxyUw4GeFdvwC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_name_summary.html",
+      "size": 110,
+      "hash": "idfHGFjE6dA4hS7bgYI0-MFQn1AzX6yhlQSirW3p9jcC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_packages.html",
+      "size": 837,
+      "hash": "nHfl3MbIxOST8MGFHRzu_Uo0yBlMNdHveurXAJU6x_MC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_property.html",
+      "size": 351,
+      "hash": "JZMZmtsk5BsuKTp3DLecqKMN-x4Im8-q4M9xJ_YJuVUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_search_sidebar.html",
+      "size": 799,
+      "hash": "QNBWqAw0CLpzm4ON9TnlU7d6HV1lc1SNbm08YXICS0QC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_sidebar_for_category.html",
+      "size": 2053,
+      "hash": "rUVck2P4vuo6ObYhPTrhZ2iML-cFd59aVVn-qAWp5ZEC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_sidebar_for_class.html",
+      "size": 2278,
+      "hash": "rLTaD5-pge8l48t1UWJUo8sZFaJXrUui8a8Bz0ZgQMMC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_sidebar_for_container.html",
+      "size": 4044,
+      "hash": "Prr6758rH4DwjgBgwAUXL9qwbMNDbz463sv14SzvVLMC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_sidebar_for_enum.html",
+      "size": 2274,
+      "hash": "LMCnwo2XKHOxhdcypTywKKhFDZIfvK9fi2xfvp1qK9MC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_sidebar_for_extension.html",
+      "size": 1638,
+      "hash": "1XYKNK8c6oz34f8D23AHyLdYpMogf7Kop6lGQ4TTavIC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_sidebar_for_library.html",
+      "size": 1860,
+      "hash": "nsmXoMOApQ7grXO1TzHh_NOB1VpSMyaMrX91F4RHhDMC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_source_code.html",
+      "size": 226,
+      "hash": "n_RnVr1wNHOzwvc3Q7xySGYDWln4zhdnL8o24k3qiwgC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/_source_link.html",
+      "size": 207,
+      "hash": "djlnYdRB8l1YjXrL8E0KSz4aPSXWfrRlRUCbt3eoS5IC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/category.html",
+      "size": 3303,
+      "hash": "u0jow9BLkefNS-SSDKnHbnRznYRXvpNmq7S0MjBTDj4C"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/class.html",
+      "size": 5667,
+      "hash": "7cNT5q4SDMz_YVu_SWiwzuxCWQ6HU1-GBPGAFphoR8sC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/constant.html",
+      "size": 1009,
+      "hash": "AMKcLBUrHXXnDeHsIGqxrpzar15w7PCq0f9EzwlYUjAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/constructor.html",
+      "size": 1231,
+      "hash": "x4zq_1-1mLWmpFvORcjkW6B7j8M7Jh8BB2-u_ucoxx4C"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/enum.html",
+      "size": 5288,
+      "hash": "-e6gELilAQWK69GEr4sYgyTwSHnT2rFvfCqEiApSRwMC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/extension.html",
+      "size": 3085,
+      "hash": "Em6Ym8QiCuQEonEcm_oKzBr0GcD-SWDEWN9qk4U3FzIC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/function.html",
+      "size": 864,
+      "hash": "CwbDf8WttcF9_PJ3KAhx2Oxr9-8JbGvu3t4dBPuIBvgC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/index.html",
+      "size": 1323,
+      "hash": "FjLOevAWXUT0oiEcHFSpk9XLYwgGtgZvXNCXzRXbWrAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/library.html",
+      "size": 3496,
+      "hash": "fSnMYB5nAz3ypxY9y6fouPB0QNoA6yXTWMhGRAAU3ZsC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/method.html",
+      "size": 853,
+      "hash": "cqavEmEEXfkSMOB4a2JTUJgmmbhCP8d5i8fQkD7LXEAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/mixin.html",
+      "size": 5586,
+      "hash": "K9DMK96DQ8so47jE4f5LoGgSTg432W6zMaj6ioPJyYQC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/property.html",
+      "size": 1188,
+      "hash": "e7CKs842rfQ-SCuRCGCyDyeu1P3FZc4tjJjS1kXsybEC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/top_level_constant.html",
+      "size": 925,
+      "hash": "tdG9fHHhY6eys15gydQNFZp-YhICCyHvp3fhPFm7N2YC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/top_level_property.html",
+      "size": 1161,
+      "hash": "rjJ3g5h2MqPZG8jlGeva19TUnBTP_msyV9aQDjDEEeEC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/html/typedef.html",
+      "size": 899,
+      "hash": "ptvpIap1RMRMfko2rDDbx3YDSU2-hf1tkPuTgzm0bykC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/404error.md",
+      "size": 137,
+      "hash": "rSqgKt1qZBxNNK5jVgrWqwtXlTIj2CN2W4Xkh7IvG3cC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_accessor_getter.md",
+      "size": 148,
+      "hash": "FJqhVlhRZC20gBqOG6ooTRKKgEoUaNsU4Z4RPqTIucAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_accessor_setter.md",
+      "size": 155,
+      "hash": "3fVXkcEphpqI0F01TPC_sTqnYqllbrAqGe0BwVgMfJAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_callable.md",
+      "size": 216,
+      "hash": "V2VewcOcNmspE0Ixiody5yTqJ2JYnvHgz9rPEQTtPAwC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_callable_multiline.md",
+      "size": 212,
+      "hash": "2VeULznaDV116miDJKbaBAmvgKzowUchrEIDf8xFtVgC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_categorization.md",
+      "size": 138,
+      "hash": "Q1_8IUgRzdVRWKPu7rUAIOOi1tlGZdq64g9qllhAAjAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_class.md",
+      "size": 116,
+      "hash": "cAUM5POzGkKYGE0oyhWn6MAEeJeW9SehD2AHHTwKeyQC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_constant.md",
+      "size": 163,
+      "hash": "YDkRzLFks6_sFuOSNMFzyAFiHSgTbF0Deg1u6n679U8C"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_documentation.md",
+      "size": 72,
+      "hash": "9LWo2aH5kifDMXnujMfA6rUlsQIWPVRRcM4iwjuTYgoC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_extension.md",
+      "size": 87,
+      "hash": "sYZdSRI57E69XnmMijOCsY_upKzmSKgWGTj_3-EIq5wC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_feature_set.md",
+      "size": 126,
+      "hash": "BIZeRzWzyEET5W1NuZxNPtqfIcJv3pa73wW-o1_Rm0wC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_features.md",
+      "size": 93,
+      "hash": "JcDbQ7roM3HgKG4-qCmxoLjFqCPugzcZwu5Eg9Mzg6EC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_footer.md",
+      "size": 140,
+      "hash": "ntzekkHX1HGfWmsn3mFi4EB9rZz36Wr74blD4upZ33UC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_head.md",
+      "size": 26,
+      "hash": "T9VwspS3uSqcw3WSI2NkiYwMmb5Fpde0hOKU085lpS0C"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_library.md",
+      "size": 105,
+      "hash": "ImjYig-EGJwcdiRBRQmHsciiual_kIMrL6r6_zvwlFwC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_mixin.md",
+      "size": 116,
+      "hash": "cAUM5POzGkKYGE0oyhWn6MAEeJeW9SehD2AHHTwKeyQC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_name_summary.md",
+      "size": 111,
+      "hash": "sw06eVKJbc6Ts6pF7AtPb4DvjMW2JxrgbZf2kpCFUyAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_property.md",
+      "size": 169,
+      "hash": "oMPdNcl9DmwqBczCC1wj8DnksItw0lpV_cmuO5IZllcC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_source_code.md",
+      "size": 88,
+      "hash": "8R6coHmkw-QhlCjqfyGj9HGC5MNPr893D1AU1YfFUeUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/_source_link.md",
+      "size": 70,
+      "hash": "DnAM2xcS-BpjqBH_ocsTHZlU_MDfQjfL453RzN9tVWwC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/category.md",
+      "size": 1120,
+      "hash": "CjJ5TdMbZR9oSGWY-aphbjRQWrxf1XD75uC0Z5guKRgC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/class.md",
+      "size": 2385,
+      "hash": "eIoHeMMcsiCG_2oJpEU5zhLfVCtT-90iB2UGw3W6GucC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/constant.md",
+      "size": 235,
+      "hash": "MQejC5tztVj4A0y3dcsb_tbq66X-XfNNjgdWdmgiGuYC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/constructor.md",
+      "size": 386,
+      "hash": "KhtDOnffoGnhd7yQfcryQ82yTHHOoLD_L8I4iRkdOiQC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/enum.md",
+      "size": 2150,
+      "hash": "IesFhD3B-VZwJrm6LQN16UtPxWW-cC5PAwK9Au7RtRIC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/extension.md",
+      "size": 1198,
+      "hash": "bEQF-pBRehVG9JaGL5Wq0mKxmJqHskbuo0AaNASXw1UC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/function.md",
+      "size": 225,
+      "hash": "f7DYs4Gv8_oJpFJokf2ADf6qm9uEw3PuTXEEsXqRsFUC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/index.md",
+      "size": 552,
+      "hash": "H008-A4zi-Crpood5y1fDfao2pRqMyGlBRsv3dXDVpkC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/library.md",
+      "size": 1502,
+      "hash": "KL523zGDtNvxdm1fXJ6Hdy_gqy04fZSJKxkRYvOCZJYC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/method.md",
+      "size": 215,
+      "hash": "QRAHdunsKlm7O-c5hk0x3Tem-ocg1In23C0f2wJyWugC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/mixin.md",
+      "size": 2370,
+      "hash": "Zn5iE2c_5PBOC4qF-k-b-qU3paMUUO3_kIkca4ESzdEC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/property.md",
+      "size": 440,
+      "hash": "1geD6ZMCCpSnv16mA7VTwc88cq1IGdYw_ty5DWQ6Yu8C"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/top_level_constant.md",
+      "size": 245,
+      "hash": "Hkc3-jJmRoSPKezSep_q6WuYiRfyQEu-e_g4Caq2UDIC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/top_level_property.md",
+      "size": 428,
+      "hash": "aAvKIHRvDLDeMHyLpQq_73xNNOhU1bpP-r9xIMoytSAC"
+    },
+    {
+      "name": "dart-sdk/bin/resources/dartdoc/templates/md/typedef.md",
+      "size": 222,
+      "hash": "yZbf5bL1Oe1C9niSHQaJnBjN1H9_MCU9SdrKzg6P0MoC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/analysis_server.dart.snapshot",
+      "size": 21806512,
+      "hash": "TnD2j_hW8S3PcNGlFy0-g2hSXIatU-C5wb24l70OPT0C"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/dart2js.dart.snapshot",
+      "size": 60908160,
+      "hash": "lQh6Qw4c-5bxEEEdjbAYxFYjkAHv_nOn53HBuoPqJKcC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/dart2native.dart.snapshot",
+      "size": 4652944,
+      "hash": "06_idzsC1u4WLlxdl0EeozZpVvRR-hp-D6h53VC9aF0C"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/dartanalyzer.dart.snapshot",
+      "size": 15116656,
+      "hash": "OyWILxkYrMuDkYwF_8807z1ZQXC8B2n3-uRpvkzAoHAC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/dartdevc.dart.snapshot",
+      "size": 34979376,
+      "hash": "uAQYX08ut_6gLDRvbjZFgOZJGaYPbQHgWgJ0R5LnYR0C"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/dartdoc.dart.snapshot",
+      "size": 16360560,
+      "hash": "nTLPEiPGS1AXHxeUjK3s5B0T-ceoNPW1X5OWV5O4hggC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/dartfmt.dart.snapshot",
+      "size": 19467920,
+      "hash": "2wX1qqy1Xk-0EjYD4ZMELr5VzQtw0sRxwGTsnRoB32EC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/dds.dart.snapshot",
+      "size": 5093904,
+      "hash": "C1dXi66f3kIwibc1-mJZ2U9ale7C8Qn8azLiLKbnrFQC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/frontend_server.dart.snapshot",
+      "size": 33237648,
+      "hash": "BU1GS6byN8W9jchesdm_AHhbEV4-TKaA3-MhQH-zX-YC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/gen_kernel.dart.snapshot",
+      "size": 31646704,
+      "hash": "BsI6d1bcXM1Ckgd6VISjBBWsIPYTAPkU9fBQIOKQN_wC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/kernel-service.dart.snapshot",
+      "size": 32239392,
+      "hash": "mehXdFjUpqbA1jWHganHUH_ePht5UpvqB5SqsXXqJ4wC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/kernel_worker.dart.snapshot",
+      "size": 11142816,
+      "hash": "NApefYgc4L8lDyWz6VeQ_BFGp6qXF9fcFnhK9OK6IGEC"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/libtensorflowlite_c-win64.dll",
+      "size": 6202238,
+      "hash": "ZROSYq38mN5-egMiPzIAcggbd3ekyCP9YADWdsvtV84C"
+    },
+    {
+      "name": "dart-sdk/bin/snapshots/pub.dart.snapshot",
+      "size": 15970832,
+      "hash": "Zm-pMskpWR7jyHvY5ymfz4gTM-mtgtfbn9CbBrVTE5sC"
+    },
+    {
+      "name": "dart-sdk/bin/utils/gen_snapshot.exe",
+      "size": 5208576,
+      "hash": "_Sn6h6DJMsbbnHEjO3vyw2FhYmzFqXRP59IVA1QEBUcC"
+    },
+    {
+      "name": "dart-sdk/dartdoc_options.yaml",
+      "size": 194,
+      "hash": "oKPpKNQl6uOR4C-jvis1i8HbxhoDNmnT1-Qs5A_rdTAC"
+    },
+    {
+      "name": "dart-sdk/include/dart_api.h",
+      "size": 138887,
+      "hash": "ij6vXdZHVrazLUc9_Ja6Kxggh2ISfk_EJn-nLt69D_0C"
+    },
+    {
+      "name": "dart-sdk/include/dart_api_dl.h",
+      "size": 7022,
+      "hash": "a0ikOr6FX0ae-nxPnI4_IdbLgsx5TQauzKdwMM4hdRYC"
+    },
+    {
+      "name": "dart-sdk/include/dart_api_dl_impl.h",
+      "size": 584,
+      "hash": "Y7KpO_4vv6wsptx2fTAMaPKdlJKPjZNm3xweuzccB1wC"
+    },
+    {
+      "name": "dart-sdk/include/dart_native_api.h",
+      "size": 6261,
+      "hash": "jQ3DCWvbFo-vAzIb-Z91AvY_ApBY6z9dWXXY8ei1ssUC"
+    },
+    {
+      "name": "dart-sdk/include/dart_tools_api.h",
+      "size": 17414,
+      "hash": "uZdX4E5sdhOXsK53xiMobu0EHZAyskBroGr_HG-VS7wC"
+    },
+    {
+      "name": "dart-sdk/include/dart_version.h",
+      "size": 620,
+      "hash": "mD9Sr796eMaqYYvUtzbmd2z2w2e-csVcgc0AWbiFqFoC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/crypto.dart",
+      "size": 14599,
+      "hash": "19TPD4fC0AjcDrzPqINwC36t6QFPeisionGH-a3wcLsC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/http.dart",
+      "size": 77803,
+      "hash": "Yis2yzfRa8ji2e1c9nfpdS_6eV9q00VqI2GUfWL8lL0C"
+    },
+    {
+      "name": "dart-sdk/lib/_http/http_date.dart",
+      "size": 10138,
+      "hash": "15J6q_bMDfc9f1GVqrawu7BS2eyuiAaha4XPRtumy1IC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/http_headers.dart",
+      "size": 31905,
+      "hash": "wuYFyblX2MycRaKE6BKsnXNBJMe74d23Tmp9lGdzFTIC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/http_impl.dart",
+      "size": 109013,
+      "hash": "mRwIuLNZ7FxRZYK8ELaaNlmS4ZxOplrt9A8DDYsUhSMC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/http_parser.dart",
+      "size": 38218,
+      "hash": "1ZDZXfd_t6MkR-QCiwwq2axDr4wWo7RIgRTRy6ldQ2wC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/http_session.dart",
+      "size": 5327,
+      "hash": "RIqu4-yfzk85_P_yflrSCTCzIr9ihqoclZ--gidGiycC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/http_sources.gni",
+      "size": 522,
+      "hash": "2BDqAN82VODGdeyLyiyTQzQh0YDMcqBwgSid2ofCcKsC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/overrides.dart",
+      "size": 4128,
+      "hash": "_51JF56lAlKQgNoJRzprQuyMtxA04lc_DXCr8JWp2MYC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/websocket.dart",
+      "size": 18786,
+      "hash": "MnKfwF-ArC5EvykMUmOpbkd2rkVW64r9z6nl2kj5scgC"
+    },
+    {
+      "name": "dart-sdk/lib/_http/websocket_impl.dart",
+      "size": 41909,
+      "hash": "tiRfr20oNUnMrf_Vzu3lNXO-lSzgDhniOTmLAx3gCm0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/allowed_experiments.json",
+      "size": 2648,
+      "hash": "kp25mnoHlgDwT3S4wJHyYzpG1NfMJXnl928cF9bsL6cC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/dart2js_nnbd_strong_platform.dill",
+      "size": 8080664,
+      "hash": "kEVvtE_ure_S9sH8hxus04JUXJYx6_QFTVynMHM70vAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/dart2js_platform.dill",
+      "size": 8080632,
+      "hash": "k3d9DAV7YRnEJpLc2G1KT6Kdqdp9RZbLlSX-yOETtU0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/dart2js_server_nnbd_strong_platform.dill",
+      "size": 4756192,
+      "hash": "zOBW_AHpNgXMySx17v8o2D-NB6GOlUziVm5OTQE92xkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/dart2js_server_platform.dill",
+      "size": 4756168,
+      "hash": "UEsHwcfdfNBTr5WJMdpWeyF9mfaisqB_zgmYssWLHJQC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/dartdev.dill",
+      "size": 11678608,
+      "hash": "V-WyfPmJM-SxT45-oeddnBnrvfyetifrd5StsoDjjvoC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/ddc_outline_sound.dill",
+      "size": 1794128,
+      "hash": "eX52Av--aDQV7OEqytYYChwKMcB5--hEeGTaCazuWkMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/ddc_platform.dill",
+      "size": 7837824,
+      "hash": "hQtB3YboT_06zViFMHgmvYuwlG57PdsvjKCAdHxewnIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/ddc_platform_sound.dill",
+      "size": 7837856,
+      "hash": "093IX7SWVbcdRVAx4evM1HMryaP-YJgWuX9Rg7OFRc4C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/ddc_sdk.dill",
+      "size": 1794128,
+      "hash": "B83HgMD0kuSPI1BoludRj5ZgoVLdOchQYbGfUcxbNOkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/async_patch.dart",
+      "size": 15695,
+      "hash": "RFTQl5H_Ept_HwIGYGiuPaQ_LwL7BHWK1d3OxUV2TcEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/collection_patch.dart",
+      "size": 17017,
+      "hash": "HCi3NaoNSjzZ3n4HO-JCMhukKYMVLtdxRkGlWooThbkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/convert_patch.dart",
+      "size": 16069,
+      "hash": "AdUuV75dOsyyrXdp-Dn5Z9pyiPHPaIdyIMrLOy5O4LAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/core_patch.dart",
+      "size": 95876,
+      "hash": "1Jqs3ato8mN1cf67e5DNNNCVy2tzoNBiPRohtOgNVtkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/developer_patch.dart",
+      "size": 5026,
+      "hash": "BOVHkhZb_HxoCvZZjjjCUuZHAgS6ld2gSECwkHkt0aoC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/internal_patch.dart",
+      "size": 1561,
+      "hash": "H8-a9wbNWx0U2PtDzoA7oIp30qX8Oi8j8jViDfibHKUC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/io_patch.dart",
+      "size": 16153,
+      "hash": "3ONK-c6EvhT1m3joh4GouqN5bBK-0b28SrKJg_RfSmIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/isolate_patch.dart",
+      "size": 3379,
+      "hash": "TkJZBsH8jWYo7cnnkcSzbFhedkcCjc6N0HyPo6pTVq0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/js_patch.dart",
+      "size": 11928,
+      "hash": "z8uUiqyuYv427_r57kXF_EQ9qgPo5GYvwxBT7l2e8XQC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/math_patch.dart",
+      "size": 9930,
+      "hash": "2oDFTlmyijmRY4YT9COfApvQ9F7CnxpYb1f7IV3O6iMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/patch/typed_data_patch.dart",
+      "size": 4224,
+      "hash": "uBsZ0ViJa_ownSfheyx0d95vlLfzmt9lFVuwra7w6QgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/annotations.dart",
+      "size": 2741,
+      "hash": "5IDmRG_zsYNWrRXUonX4mhyC49yTo7ZIUrCqTij0j6IC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/custom_hash_map.dart",
+      "size": 5801,
+      "hash": "YJVeNWXLQL0oE4A8sot24jKQyP-7PoyFHqFZQ89q8koC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/ddc_runtime/classes.dart",
+      "size": 21774,
+      "hash": "RwRrBu5vKGP4zuLW0XK6vpPWsQaFdzpUb_jw3PKDrkcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/ddc_runtime/errors.dart",
+      "size": 10795,
+      "hash": "yhV0Om0Wt4ik1kcWS5f0Vj5yYKT2j5t9LmGP9xtuHEcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/ddc_runtime/operations.dart",
+      "size": 28785,
+      "hash": "V3omJDrtjr6Nezs8_3UgU-TzKV3yG_ZpMDpFwON_2EQC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/ddc_runtime/rtti.dart",
+      "size": 8314,
+      "hash": "XEmk73FCGuph4lt9i-StVFlDmyG-qbVoJ4h6rYPAC3YC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/ddc_runtime/runtime.dart",
+      "size": 8083,
+      "hash": "1ZqXPHzNyDAus4FPngoE2rBCIiz672c1gs0hMAP8ajoC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/ddc_runtime/types.dart",
+      "size": 72690,
+      "hash": "42D--FaSX3amCubGuq6OWuu7hTDV8ZKh1qX0qGwHmLkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/ddc_runtime/utils.dart",
+      "size": 3138,
+      "hash": "DfAzTHksnu6ShiTyzYr0Bn0JOOYhbg6G1SIbRVC7EhsC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/debugger.dart",
+      "size": 32551,
+      "hash": "b0PFj-mrqieCaIzf880O0HSUNnnBRZrEQVJfiju3lzcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/foreign_helper.dart",
+      "size": 9787,
+      "hash": "BMgdTvm1cTD3EpIc37pkSfR14oCswkJH9F4otrhZHdAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/identity_hash_map.dart",
+      "size": 3918,
+      "hash": "a8L8s7-tHWjI1jSYqWelThH7jfe2rjXZ_YBYrnKNHlEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/interceptors.dart",
+      "size": 7553,
+      "hash": "GWawX8Yf-hPb_695rRHiIBfS0hpFtrmuZayrjzBmc5oC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/isolate_helper.dart",
+      "size": 3260,
+      "hash": "ObJw0xeP_jzAJFkPs3IYnopLrlZZAuf2st2DKBS93mwC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/js_array.dart",
+      "size": 20519,
+      "hash": "MwRBTthXLF-RIqEVmxJl_g-ziT7YBQe5SuKpXd3VQh0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/js_helper.dart",
+      "size": 25919,
+      "hash": "OsI-BHPg5RLL0nyco4vAKQqIzmzaHf20w24IYuwRqigC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/js_number.dart",
+      "size": 18407,
+      "hash": "dKJQNczporzjo-A9cT6_qNnFr1M_PYM9WpMw1pkPEvEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/js_primitives.dart",
+      "size": 1785,
+      "hash": "lQCYjAEdYvax6XbPrcz7haa6-SQASAmnbAw8rgLiRM8C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/js_rti.dart",
+      "size": 888,
+      "hash": "Ra42oHAbniCG0DZARJ9DWSg092WIQpwyz4WqbjELNlEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/js_string.dart",
+      "size": 15998,
+      "hash": "0k7XbT_RX7ou3f7ZyeeHvTbDa6cyKEhysSqjc2Ys2kUC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/linked_hash_map.dart",
+      "size": 8864,
+      "hash": "Q4bc4eqmGshuuSHPjkpMFxyu7bsT9k24LuRBcAATe1AC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/mirror_helper.dart",
+      "size": 381,
+      "hash": "ayPp1OBWYSS9G9ESkHB5VYYf7NT1GzyqLZe-yER73isC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/native_helper.dart",
+      "size": 784,
+      "hash": "fTAiBfow6irvEKdE5IETZ6zDfvTqI3s7qrvuNrPoWusC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/native_typed_data.dart",
+      "size": 63012,
+      "hash": "QEGxR1q-Hno9t6hCAMVWjQePmIjl_ptErjrqsJbZjBkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/preambles/README",
+      "size": 633,
+      "hash": "19l_ESNj59G4Is6Akt0xl4RyYwXodn5btgEWRfQ4u2kC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/preambles/d8.js",
+      "size": 8351,
+      "hash": "DvPFspKd-5--0vQD1rZpcSgD6BRpqEbv82xoeZIv2gUC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/preambles/jsshell.js",
+      "size": 732,
+      "hash": "WyjE88E-rOJtMFwe-sTusqlO2-zDBG0Iz4uZ45ovbaMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/profile.dart",
+      "size": 5030,
+      "hash": "rfuYnwCEePsO7n4P2sDZXheZlAsr10LLqqMK_SulO8gC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/regexp_helper.dart",
+      "size": 9794,
+      "hash": "1WFbBzg2vtmeBQbLtelGKcMmFQ5VB6j8IuHUK-li6WQC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_dev_runtime/private/string_helper.dart",
+      "size": 9460,
+      "hash": "mO0YZFZosbQVsTSzVuesx6pu6A9DZaF-G_ur-SctOR4C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/.packages",
+      "size": 63,
+      "hash": "X3Nmck3BTlCI_7f0xcX_L7w1kXSJoXN70wev93_SfdIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/interceptors_sources.gni",
+      "size": 269,
+      "hash": "p4WutKBk6kP0kepzm4Meb7CDkjeEqixUfLFvo-oYPO4C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/annotations.dart",
+      "size": 495,
+      "hash": "5HDEN4BLrdZQLWwKz8ShCna8ySksittZnTNRnD2Dpj8C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/async_patch.dart",
+      "size": 23236,
+      "hash": "N2FJ7NueLRxCd2s5BkE1q3pODGo9m4CgyErYAejRDL0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/collection_patch.dart",
+      "size": 50737,
+      "hash": "xgqQx-anfy3u_MQPGQn-xpa1jLSV9gHTUvORBASTVNMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/constant_map.dart",
+      "size": 6558,
+      "hash": "dZeztMMhqMRCGgm_P2UOwA-DmJZm_KnhBHvD0tUNzOcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/convert_patch.dart",
+      "size": 16161,
+      "hash": "HM_rblocjwNCMGNhEvgspNTZ3Js68hXL8ixIFLFFRD8C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/core_patch.dart",
+      "size": 96742,
+      "hash": "O-UEGi0jxkBjQc45hYoiYBjnoCfCApkEUlDtp1bkLhsC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/developer_patch.dart",
+      "size": 3113,
+      "hash": "Fw7NBb5RQTt3hG3oGmjDuEMLs7EqXHf50MSkTUDH01QC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/foreign_helper.dart",
+      "size": 10851,
+      "hash": "E0Ey6QFS1Tpnl38U6JJeVCDu4c5fa-CXD8_NrYpNSFAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/instantiation.dart",
+      "size": 9702,
+      "hash": "oFF8CZUoVLIkpcF7GYxF74jbJNNlsTkCfkIIyaWpNLIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/interceptors.dart",
+      "size": 17021,
+      "hash": "4QEIDKXkh1vSK-LuI4uA1FbKoY6hZpPFxUi_6kBvNiEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/internal_patch.dart",
+      "size": 1812,
+      "hash": "MDkn0-zmElzsTeXToj-fZNO16IQ9rEnbn5IEZW3WdjoC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/io_patch.dart",
+      "size": 16505,
+      "hash": "09p_WXfrAQz1jtN2LgbprjYTSdxxBL1ovU6utfMIU6MC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/isolate_patch.dart",
+      "size": 3834,
+      "hash": "tiaa6WppPdtJEzee6B71PIIIZbPLekwbxxZ6th_QQX4C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/js_array.dart",
+      "size": 23902,
+      "hash": "YZhD113aOr3q1tk18jzPTE7HZsYDKStd_95XKEnzbEcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/js_helper.dart",
+      "size": 108096,
+      "hash": "zHzLGwGe_G_h0U5nn0pWhPkfLaUdQIRtBCvbuzW54ywC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/js_names.dart",
+      "size": 6655,
+      "hash": "IzUC8VDaeigjyO0aJlFDWqJtHacog9AptaBVJZSZBnEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/js_number.dart",
+      "size": 22432,
+      "hash": "t7x1ADCJIT9GGp59VILRrvTHrVDySxnAs9VUEpKistgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/js_patch.dart",
+      "size": 17468,
+      "hash": "VBmAjHRCbvk7lytNqWhln1yYGGenbIQs252ruyYA_tkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/js_primitives.dart",
+      "size": 1769,
+      "hash": "3kgiYMrVJoxrA4gteafqMQTVOUqksYon1gQEIzCkZHIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/js_string.dart",
+      "size": 15592,
+      "hash": "SrQOCTs3voSnryumNWlU49di2vHv_HZhlEbsnSQ6oywC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/linked_hash_map.dart",
+      "size": 12891,
+      "hash": "4v6SPlODRIaUjFDT49bPMGQgNqRoI0Bo2X5TJ1J0REwC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/math_patch.dart",
+      "size": 9680,
+      "hash": "T8GkGm2ClKzHGkFYadaTf66Sb-U9DieHM9K8I-f6mmgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/native_helper.dart",
+      "size": 20803,
+      "hash": "L2xxZXHwtMzUpafalAwvKj3c_8P28IC1JzYYwWGjsBAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/native_typed_data.dart",
+      "size": 62794,
+      "hash": "7v8nRGV-ptzGIVE5Zca8Wpp7mjxy-Jj1GucLFE7W5AMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/preambles/README",
+      "size": 631,
+      "hash": "pVM7xXt25iQG06oQInqeOtivx8GrhoWZcuibB2tpLAEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/preambles/d8.js",
+      "size": 10295,
+      "hash": "hN2eDSsLsYp1_NGjoIDD-HI2IOAtPl0o7H5Ap4Qg434C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/preambles/jsshell.js",
+      "size": 9750,
+      "hash": "15Q2Wp0hFNo2lH7kko5SYRjOuh3Wh-3KvDYJtFkgP3sC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/regexp_helper.dart",
+      "size": 10270,
+      "hash": "74Ny5k4YzN5JTVRhoUskKC4Lef5S1LzLXFsh3qrux7UC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/rti.dart",
+      "size": 114424,
+      "hash": "TVoBJ24wMvDxehQFRFLqprDd9RbSq6PwMJA_gLiSHzcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/shared/async_await_error_codes.dart",
+      "size": 411,
+      "hash": "BCYEQ9GubF5-uJbzB8J33AnzyG98EuS9vlaUYhozunAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/shared/embedded_names.dart",
+      "size": 10174,
+      "hash": "NpPBL1UY1Gzz6D2FwKbDIv-CR085XdTTHn8bGdalEvUC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/shared/recipe_syntax.dart",
+      "size": 9799,
+      "hash": "pk15OJHkcRmxp0e2bzjqLhaYr-VsC_GaHtzO4wiT3fYC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/string_helper.dart",
+      "size": 11380,
+      "hash": "K57kFnkXhn1VaX_UDKVtfH2PbCld7pNzrRHf2y0uTWgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/lib/typed_data_patch.dart",
+      "size": 4224,
+      "hash": "uBsZ0ViJa_ownSfheyx0d95vlLfzmt9lFVuwra7w6QgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/js_runtime/pubspec.yaml",
+      "size": 200,
+      "hash": "9L8sB3oueKduuQptTJ9tGfy4PYhK00USrZbEdRUtFo0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/libraries.dart",
+      "size": 11943,
+      "hash": "jlhghSoXjlh592nfZNnduK0buq5baI_-O9r0d7A77moC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/pub/asset/7zip/7za.exe",
+      "size": 587776,
+      "hash": "wTaxRn1mmnJUeKYRDrqqs8uIo9OJ36aI4GFzwGa3b88C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/pub/asset/7zip/README.google",
+      "size": 243,
+      "hash": "CIvVNzaIrBq5W_EChu81v0qgcCemhOeBV9oSPm0Qcz0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/pub/asset/7zip/license.txt",
+      "size": 1162,
+      "hash": "7LU7N5FTWhHArP2fKrCjAG01cAt7RwUDrOElImMNHUAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/pub/asset/7zip/readme.txt",
+      "size": 1254,
+      "hash": "xre3z_XCuqdxba34NaYzRDsKbr239VUPLJBJly-iMa8C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/sdk_library_metadata/lib/libraries.dart",
+      "size": 11943,
+      "hash": "jlhghSoXjlh592nfZNnduK0buq5baI_-O9r0d7A77moC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/sdk_library_metadata/pubspec.yaml",
+      "size": 246,
+      "hash": "CSZvkBhMGdT5EMjrYQQNnjN_jIgzbyNyoNY8vbgeaC0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/strong.sum",
+      "size": 5079272,
+      "hash": "JM2u1n0PbrOzmHXyKWbBsLD2ErvsKidrpaT5VQjor6kC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/builtin.dart",
+      "size": 20265,
+      "hash": "ZyoW2M-FPzsaTBvLzQSzmciz76KxLcmdBlIpoDGrKa0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/cli_patch.dart",
+      "size": 326,
+      "hash": "0A6lE9jOCUqbXUcJWBRs7QlpsqbkR27bLYMqTeX1tiwC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/common_patch.dart",
+      "size": 2363,
+      "hash": "5sEUA8sVpK4I0QVQNngDJfKK9L4w7wsc4gISDHxrZSwC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/directory_patch.dart",
+      "size": 2350,
+      "hash": "HMz96Y5MW_KN5py8AYVGjqSugiZIgcLp4TocDQdpA0EC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/eventhandler_patch.dart",
+      "size": 487,
+      "hash": "x1LCDzei3ZgThV5pub8QYCU2pEwKRskud_I7fz10L4AC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/file_patch.dart",
+      "size": 14430,
+      "hash": "fg8PK9u6XU_O1v16mjpjEEGWH-lF9-87Ts822WOXLyQC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/file_system_entity_patch.dart",
+      "size": 754,
+      "hash": "CAOdmQJCSb0_6bUYA204Qpmjp3nj7nIhPGP5PS6c6A4C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/filter_patch.dart",
+      "size": 1717,
+      "hash": "YzXU5YGa8UWYoaWiRkm_glLPE2_Drbns2gBXKI1ULCsC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/io_service_patch.dart",
+      "size": 2962,
+      "hash": "riF8GABcnNZnGtGtSTBCw2xGx0OZvVIZsmbo3yKo4zgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/namespace_patch.dart",
+      "size": 1629,
+      "hash": "QSlcKFjlwyc545fortfkJL9ySMrgK9txym8172Q_JDQC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/platform_patch.dart",
+      "size": 1913,
+      "hash": "CtJ4P9MSCZ3WSuAAebki9-Lvra684nFyhyoWAkokjc4C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/process_patch.dart",
+      "size": 18731,
+      "hash": "NFdTJpPUlgqbgOZN_IsBhftIPBkA-B7Dk39GEWqH74EC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/secure_socket_patch.dart",
+      "size": 7274,
+      "hash": "sR3PNED9fSVqbjVkCEhPIRCke2ecUiPUYWtzGJmqiE8C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/socket_patch.dart",
+      "size": 76420,
+      "hash": "scJwpZaq0kFclQWYmwN9KrkZ3vPoTD1FcuvKhCnLPUsC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/stdio_patch.dart",
+      "size": 4520,
+      "hash": "vE1KmpThBbb-WLR-KuCjAR2XIDYh8SMPkSQYN16B8CkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/sync_socket_patch.dart",
+      "size": 9678,
+      "hash": "KK_yfOehxYXOzKkNsmi8asCuEDSlKWglyTGZdKRm-CEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/vmservice_io.dart",
+      "size": 8751,
+      "hash": "-_e7IFV1hJumtCcmXPgBvmCCifIYLq5oj8vwbPKJWU0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/bin/vmservice_server.dart",
+      "size": 16563,
+      "hash": "YHNmceUOF2SCFpa0DsyhBkI0fdckt6KBqX5NB8RP1mYC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/array.dart",
+      "size": 8574,
+      "hash": "ok1xjRH8YD4KO3nWXIM332F3pYdPvAUQE5c6aE_i6XgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/array_patch.dart",
+      "size": 3089,
+      "hash": "fq4WQ8ccUdtkCZPW5ANIMXW6NfLYRMiDlIEqdUJUuHcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/async_patch.dart",
+      "size": 11222,
+      "hash": "P_-mtG5rWtd0AHsTb3pNwyigEAF_u0n4OBhbd1yiTtcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/bigint_patch.dart",
+      "size": 99918,
+      "hash": "LcX77BFgP9E1W6b0VYDSwE4eT7vQ7btv4kvKbyusKXcC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/bool_patch.dart",
+      "size": 613,
+      "hash": "A6dq6PGMnJcGPzzTxIAl5Ik6t5p_zDmm8Dr28wT2C5oC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/class_id.dart",
+      "size": 486,
+      "hash": "-jvGJ1tVLg7aRogcS0R-1X8Uu-IwVWYZZgRt1fgXcjYC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/class_id_fasta.dart",
+      "size": 1434,
+      "hash": "gOHpSRKin1Nespx_xHDuI6dg4b5kutSdBTl_AeNzTKMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/collection_patch.dart",
+      "size": 25826,
+      "hash": "wP5Mjzy9qhSR_Sq9sfEWYu1Us42Bt15tlUh1HZaK6rwC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/compact_hash.dart",
+      "size": 21856,
+      "hash": "HgcrcM9nqML4rBg13DPiui9Rb0mK4EEe7jYuYB5GBkAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/convert_patch.dart",
+      "size": 64211,
+      "hash": "S60Ox0sdzswxo9CgFFv7BUGWoww-daU0c8KrVT2eHuIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/core_patch.dart",
+      "size": 5843,
+      "hash": "BxLeT116lkJpq_OR895HwjqqbRdwBMC4rSkhNXEX790C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/date_patch.dart",
+      "size": 15963,
+      "hash": "RaGXjl87yGbeM_hNiXWhiT-J5Qp12kTFlRtv78cSXyMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/deferred_load_patch.dart",
+      "size": 584,
+      "hash": "QV-mf4WTF-HHnog_rpUxzDWiWiWVWejCu3deMiVTlb0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/developer.dart",
+      "size": 5399,
+      "hash": "kCJSs2ZMPEcjdkYBtWVBJSPVsaZeLivMG3LedcIapX8C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/double.dart",
+      "size": 11209,
+      "hash": "uScGrue_FSQOXzXgJuQDwclXABRsMSXcMkatjD2_29YC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/double_patch.dart",
+      "size": 3823,
+      "hash": "TZ0piuwtNdL9UGgKqKB2bQh_2ooPNT48CB21lLrds38C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/empty_source.dart",
+      "size": 256,
+      "hash": "87CriO_lWBG4fuR3o5Aywu9ZTpcoRn84OtrXzqJd6LgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/errors_patch.dart",
+      "size": 16924,
+      "hash": "7hwaXPp6X8FxhrbU5wVZnxreHItOCjP3JD9HTt61OesC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/expando_patch.dart",
+      "size": 3971,
+      "hash": "LquQ3SPHxikCpaYKcGXtbeATq3dqwOxWmxqWN_bgLPkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/ffi_dynamic_library_patch.dart",
+      "size": 1694,
+      "hash": "Y0RDpt_6BsosBKTuHVYohT5xrBpxz_axAnv9wh_PVkoC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/ffi_native_type_patch.dart",
+      "size": 1886,
+      "hash": "_ogqT0z9PYDllQKbfF-jGZnxmXaKuhRxTWVMkID7K6oC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/ffi_patch.dart",
+      "size": 15274,
+      "hash": "ESHHHRVfxLrtp6OddGnxCnMe2_QXqM7JZWmTtX4zcNMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/ffi_struct_patch.dart",
+      "size": 474,
+      "hash": "oKhmRxXbj4DxO40JzgI81tEADk5KQfmmhtZDMFQKo7AC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/function.dart",
+      "size": 1893,
+      "hash": "-6Pq08lgNSwIGJDLQnK3dMEGvUoc_rCr2xyJcG4AWw4C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/function_patch.dart",
+      "size": 1485,
+      "hash": "zfjT7r3Z-_X0e3Jmnz1xEdT2jvYoN5-YpMiUuHpRz5wC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/growable_array.dart",
+      "size": 12776,
+      "hash": "Q_CIh1mDtr_XAG4oeGor2-54DnpwZykQc9qBdr4v8UYC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/identical_patch.dart",
+      "size": 469,
+      "hash": "cbGRemnwO-_VOvJOoASddU69UH1BC-ubeTBdNuvrPcEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/immutable_map.dart",
+      "size": 5742,
+      "hash": "XlGEGmBinPFaAD3GhhQMcmnuWTU3BdVA9nEc_fNlQVgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/integers.dart",
+      "size": 24197,
+      "hash": "KAB4lU1ySn_RZGboS_StTdTlb2iDt02q1MyT9CIccNwC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/integers_patch.dart",
+      "size": 11448,
+      "hash": "3XNy2Zq4zfIgLJkrv75H_R9lBP2DYbtayO4L7luq9vQC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/internal_patch.dart",
+      "size": 6615,
+      "hash": "_6fwMGwyxVRaFNppjSS1FLlCk2CYSInzWt8hI_5SoE0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/invocation_mirror_patch.dart",
+      "size": 7624,
+      "hash": "OnbjxN7lrQYUJ35KyP2r9M1YY3FbhfRp7UncaEuuDGkC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/isolate_patch.dart",
+      "size": 20014,
+      "hash": "kRx9HKjXZOT_lkA4ROc7Z65i0CMz3pjNJqNM38NOF_kC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/lib_prefix.dart",
+      "size": 2498,
+      "hash": "wCA2PegGVrkECClKYlJ24tYn2e4qoGJoczZM_P9c-9UC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/map_patch.dart",
+      "size": 993,
+      "hash": "d3nGRK65MC-RfuFaIQ_C36SXQlSuj0vphIjxBLZYi8wC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/math_patch.dart",
+      "size": 9009,
+      "hash": "LmTsARM3oInQuG04TtJr3We8dS8mPSi0iU4-CJkhDGEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/mirror_reference.dart",
+      "size": 447,
+      "hash": "VvoRGm9lXQSCGg25rGpezoqkRZULUDiXx9zqp8tVJEIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/mirrors_impl.dart",
+      "size": 47710,
+      "hash": "mr0GfJHz3JnQUXV0frsT5PscwIXEAgzV-CyBbpshqR8C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/mirrors_patch.dart",
+      "size": 2758,
+      "hash": "hvSfEU76E7Ib0__Gjek9n9YiqDTzVGOESCW1puH9gy0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/null_patch.dart",
+      "size": 462,
+      "hash": "Q8tBzat-g0F1XJyIUr3MdXjqy9cXZYdCdIMHEjY1FUEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/object_patch.dart",
+      "size": 2653,
+      "hash": "gB7OTQ2DS8F7hzIzA8L1suQ-DPQ6wYgRuMhdRREugsQC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/print_patch.dart",
+      "size": 764,
+      "hash": "OMM1y98Ix9yaDydKu-rIrXSIPVBVQfi04eQGLhB8FO0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/profiler.dart",
+      "size": 796,
+      "hash": "pYfw2D0t7VOnELJO8PNaU6B32uMFZ0Er8u62miQRXPIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/regexp_patch.dart",
+      "size": 14454,
+      "hash": "DWyWWjO-qE71FX_GnmwCG1htccj_OfF_Z2b4JmGZYmEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/schedule_microtask_patch.dart",
+      "size": 919,
+      "hash": "E0y9xPmHNN81yBIjr9imG3t_r7hixtbeAfP0c7OyKH8C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/stacktrace.dart",
+      "size": 408,
+      "hash": "KJqcqPtPuhhFHReJX3Z5YJwiQLkMTzb5lb8F3JwC7eAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/stopwatch_patch.dart",
+      "size": 1801,
+      "hash": "6NIeauMDmSObXZlZwZu_F2q2Jp8sc_peQo-rr7AiKoUC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/string_buffer_patch.dart",
+      "size": 6016,
+      "hash": "9cp8cQdrNo7mDjbqRXCMugmeAUUvr86nvoj3CugrOqEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/string_patch.dart",
+      "size": 47744,
+      "hash": "RFYjAW5zhRuRv1BoE6m2AlLIKjuj2aJJJtZZyEovnQEC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/symbol_patch.dart",
+      "size": 1674,
+      "hash": "kmYNv40D9OarTMSRXDBdQgdjAwbzZAa0BdW5-WbQz-UC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/timeline.dart",
+      "size": 866,
+      "hash": "EaEnqz4GJgsQomph1nAcDIrLx88bIOCsUdJ_ZaDDlOgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/timer_impl.dart",
+      "size": 15334,
+      "hash": "EC4_yxcg_cxiwogA300bnug-6CsEmvtafe6jXwjNzoAC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/timer_patch.dart",
+      "size": 1063,
+      "hash": "D14xnRApRNK3UjEVlQoJWf7VVg4P1kWj3CL0QTOtMM0C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/type_patch.dart",
+      "size": 1154,
+      "hash": "ZYXl0VR_tISwRdOF6t6zwkIfWGlYqRhClK70FR81SaUC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/typed_data_patch.dart",
+      "size": 141424,
+      "hash": "mtzKH0V6f2aHRAZJJXucoz4buFjW6OijZhYAImFAvbMC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/uri_patch.dart",
+      "size": 2473,
+      "hash": "RkIpkbr4yvX7ZkUhjAnHQmH98C6slCJ-QhzMSG_41cgC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/wasm_patch.dart",
+      "size": 4699,
+      "hash": "IkoBx2ObCyUqNbWlGuhxcEt4bW04ac0eYHj2Efp50iIC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm/lib/weak_property.dart",
+      "size": 656,
+      "hash": "b_7x2CtOGubnLNSEHWsduyOxKZQTqVXS7y9sTMaWoK4C"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm_platform_strong.dill",
+      "size": 6252184,
+      "hash": "qszW38Y91iE4LLBLopJme0qnX9QT0Dz5ZcVxqLpDOJUC"
+    },
+    {
+      "name": "dart-sdk/lib/_internal/vm_platform_strong_product.dill",
+      "size": 6252168,
+      "hash": "dpnrIY66fGoyBDoJ8wIQbNEEKiY9hLxbApZj3Jhdc2kC"
+    },
+    {
+      "name": "dart-sdk/lib/api_readme.md",
+      "size": 1353,
+      "hash": "sf0ZaCUQsq5IY7MFYsrlAw_5C8W_BZDWVAJeTyFinHkC"
+    },
+    {
+      "name": "dart-sdk/lib/async/async.dart",
+      "size": 4438,
+      "hash": "b62BWBcH0pxnaZEunbpvZFMSilRBOaaMbalpb3FMv7wC"
+    },
+    {
+      "name": "dart-sdk/lib/async/async_error.dart",
+      "size": 723,
+      "hash": "crxjLnTipo4gIVS3Z10FHOMPBoa_j0OM6aZy6qru7uUC"
+    },
+    {
+      "name": "dart-sdk/lib/async/async_sources.gni",
+      "size": 684,
+      "hash": "zMEqkRxYCYH0id8OeiyXY4pmSZUfpiLsRpRURXfEZ88C"
+    },
+    {
+      "name": "dart-sdk/lib/async/broadcast_stream_controller.dart",
+      "size": 16040,
+      "hash": "3KcQKM80T650yX0OUxTKk244VZTbQS5fLWWzQpqYrTkC"
+    },
+    {
+      "name": "dart-sdk/lib/async/deferred_load.dart",
+      "size": 997,
+      "hash": "sKVV_8yj3ODaJcKBV_rwfODcOZyq0R7Ev4jGqDyotAoC"
+    },
+    {
+      "name": "dart-sdk/lib/async/future.dart",
+      "size": 36332,
+      "hash": "U2pJ7o5G_qUsscUInmauaLNQ6uG7pTNFbSEla7B9wWsC"
+    },
+    {
+      "name": "dart-sdk/lib/async/future_impl.dart",
+      "size": 29135,
+      "hash": "yLkyyT2aw977lcYSZRTTK9QG-H3PIrFWF4LSHyJ473UC"
+    },
+    {
+      "name": "dart-sdk/lib/async/schedule_microtask.dart",
+      "size": 5030,
+      "hash": "XNIhM_zQgkdq0aEgoyPcjdUbjCEmJad0giJO5oLBldsC"
+    },
+    {
+      "name": "dart-sdk/lib/async/stream.dart",
+      "size": 86288,
+      "hash": "34GfIbI_qzrxRD6jT2pmMRL2z4Rp2B7i9s7a3M3u3LMC"
+    },
+    {
+      "name": "dart-sdk/lib/async/stream_controller.dart",
+      "size": 34542,
+      "hash": "wAbL3q3fH8BcpT02v_PGVrXAu4P0Jj4cw3oVwNb9ylEC"
+    },
+    {
+      "name": "dart-sdk/lib/async/stream_impl.dart",
+      "size": 35075,
+      "hash": "eDexY5j9FI3Z70_44ug6DivWa2aApgZlVTD6uA4ehHgC"
+    },
+    {
+      "name": "dart-sdk/lib/async/stream_pipe.dart",
+      "size": 13714,
+      "hash": "oR0DKbHpzeBoHoOnCdQVGPVlV5u6lypHwtxss2vokkcC"
+    },
+    {
+      "name": "dart-sdk/lib/async/stream_transformers.dart",
+      "size": 9795,
+      "hash": "2L5PcxzE02FH-4_sanLqvfN0L9t2tbZxNhHG5k62rXAC"
+    },
+    {
+      "name": "dart-sdk/lib/async/timer.dart",
+      "size": 4673,
+      "hash": "L8apkMlkl1YWB4MeTSpgUbhq0MxxITB4Vdv4SD0H9c8C"
+    },
+    {
+      "name": "dart-sdk/lib/async/zone.dart",
+      "size": 59479,
+      "hash": "HbhLZbU-VYmVil5f2GpzHfD0FJsDCQxYxCl_IAvFTIMC"
+    },
+    {
+      "name": "dart-sdk/lib/cli/cli.dart",
+      "size": 332,
+      "hash": "J9t9btOvZFDDjQiyGp4FyJ4vsQ3nAEZt15xr6bQMExsC"
+    },
+    {
+      "name": "dart-sdk/lib/cli/cli_sources.gni",
+      "size": 349,
+      "hash": "4-Y9GSTSGcbGmmlm7x5mjLrSL_h5pACLugkP_s34WIYC"
+    },
+    {
+      "name": "dart-sdk/lib/cli/wait_for.dart",
+      "size": 6272,
+      "hash": "gs0DCggn6wGkX_a_84_6y5enub1PEa2o8c8QyBDE30kC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/collection.dart",
+      "size": 819,
+      "hash": "qtZhM6cSXnl3NvZ0K91EMxFPlvtiz5sAxsrUNtR2a14C"
+    },
+    {
+      "name": "dart-sdk/lib/collection/collection_sources.gni",
+      "size": 650,
+      "hash": "vrghflefMqOmXTNbBNVpALYvoHl99kYeXMoB9ydMh6sC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/collections.dart",
+      "size": 936,
+      "hash": "MgZnAuAMT_6jMsVxmuvHb1Zqz-l3kMTvp3sV3Y3rgZ4C"
+    },
+    {
+      "name": "dart-sdk/lib/collection/hash_map.dart",
+      "size": 6581,
+      "hash": "hgHJUfOgo2Jm3n76GMgoIkpFIJ60QLFRDkesUvkYhLMC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/hash_set.dart",
+      "size": 5010,
+      "hash": "MJNhKl1jZXob2NuH7Dg5bHZ4WRyMBSJdiKdR9tW0pi4C"
+    },
+    {
+      "name": "dart-sdk/lib/collection/iterable.dart",
+      "size": 12023,
+      "hash": "LpZD584wbdNZaNuf7IbsVjjofGIZtqfawgyjOGUz8coC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/iterator.dart",
+      "size": 1274,
+      "hash": "jXUUAB2nx6ifb34ECweLCJacwwc56uZ2SBxqyvLTfpMC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/linked_hash_map.dart",
+      "size": 6195,
+      "hash": "YbtHT8hPb7PUOb5JqcHs63b5LtaM_QuXJRxqSZGhC0kC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/linked_hash_set.dart",
+      "size": 5360,
+      "hash": "XmOXG-tZkdsxj8nVFjN3gZyQmUXvAzouWJ9bZmJ2cuEC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/linked_list.dart",
+      "size": 7964,
+      "hash": "EIN7Q7s4G6qoMfu2yjC5SrCf6fu3X_vb8Mb1yjUWvL8C"
+    },
+    {
+      "name": "dart-sdk/lib/collection/list.dart",
+      "size": 17599,
+      "hash": "yCm9UghW589lYMZe4lq_zz6yT9ZwwjqOtqQfA8VzJdwC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/maps.dart",
+      "size": 12135,
+      "hash": "yz_MeGECboRyp2oAeUEk_kX6Rc5T666ZrVymWoQQlkoC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/queue.dart",
+      "size": 28748,
+      "hash": "djRmBI2jhwq0FfJbwIDTsN3B4NN7ptmgF5sEFuOjD3kC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/set.dart",
+      "size": 16667,
+      "hash": "ZotaCSKPyFE5DtmnpbXpXVXyU8ucNKNWzDO4wy-XEJEC"
+    },
+    {
+      "name": "dart-sdk/lib/collection/splay_tree.dart",
+      "size": 29227,
+      "hash": "1_0Mu0CVEkM1sm341SczWOgSGbtXpOVSojnz2Gj2M4oC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/ascii.dart",
+      "size": 9719,
+      "hash": "tH4z9ofInTdFzBaCILFO7FZBa3Zm1rFSH8-MUE3P7D8C"
+    },
+    {
+      "name": "dart-sdk/lib/convert/base64.dart",
+      "size": 32062,
+      "hash": "B6EuL9HMObccWmKyUpx3QtAUYAPCk5FLNaHCeuc4-Y8C"
+    },
+    {
+      "name": "dart-sdk/lib/convert/byte_conversion.dart",
+      "size": 3412,
+      "hash": "e8DfVd0mXuRk6dh-Uc3t9ZGXv_2efOIEguj8v7b0wy0C"
+    },
+    {
+      "name": "dart-sdk/lib/convert/chunked_conversion.dart",
+      "size": 2778,
+      "hash": "ZXS_ABQqU8I0BD6HSh61FxfNHQWt7uzYi5a82jDIX6UC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/codec.dart",
+      "size": 3210,
+      "hash": "RX1vHzthUzCTw5VCSPEZP84yW6JIs1HxlOdhd-wd_hsC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/convert.dart",
+      "size": 2492,
+      "hash": "DE2_cjEHd9ixcct074MmjycEkMfaEW-aveOFxi687AYC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/convert_sources.gni",
+      "size": 651,
+      "hash": "Z8_JsdVWlL5hdnyVfMabb_iP0KBl95nnOIEz9zeCkawC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/converter.dart",
+      "size": 2709,
+      "hash": "wz_dRtiowVIZQsOULESqnvpcqz-VuzLtrDqMJugEU7QC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/encoding.dart",
+      "size": 2558,
+      "hash": "Xvsmk6mH4WNFgrFcUCSRaqWeZkeZQdJr7XK0bxP0Wu8C"
+    },
+    {
+      "name": "dart-sdk/lib/convert/html_escape.dart",
+      "size": 8303,
+      "hash": "47vD_AwsT-oz4_2Hzr3MxA47JOvTLhwFNj-pxsTDz7UC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/json.dart",
+      "size": 37689,
+      "hash": "vIZ4_PUfm7cwryz6XyOpFJtouEQ6d_wVLL8WwGM2Lq8C"
+    },
+    {
+      "name": "dart-sdk/lib/convert/latin1.dart",
+      "size": 6212,
+      "hash": "lrUuQt9oZBwcsgmKz6EV4G6dd-4i1BmUfwlMBrxJrUEC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/line_splitter.dart",
+      "size": 5167,
+      "hash": "ND_KgDpiJiWNJWQM004hBZ9EZYDn02EZ7z-fqYer-OUC"
+    },
+    {
+      "name": "dart-sdk/lib/convert/string_conversion.dart",
+      "size": 9747,
+      "hash": "KesYNpDFgFlArrE2dq06MOZLqwva6gBX7qIJs00CNQ8C"
+    },
+    {
+      "name": "dart-sdk/lib/convert/utf.dart",
+      "size": 25362,
+      "hash": "BycZpmmiUyT0cZ0skHRxtMZhJL79UNXHMnA2FTD5MqgC"
+    },
+    {
+      "name": "dart-sdk/lib/core/annotations.dart",
+      "size": 9079,
+      "hash": "mo8hsf9wx3KpvvYOYDt4We_53Oqdz9VvkB0yppxsg5oC"
+    },
+    {
+      "name": "dart-sdk/lib/core/bigint.dart",
+      "size": 12695,
+      "hash": "t9QaReeuOfkrJmMa8bS1ROrBxhYXEfF8-Xzpe2LcgE4C"
+    },
+    {
+      "name": "dart-sdk/lib/core/bool.dart",
+      "size": 3932,
+      "hash": "2h2KL70E2MljENHDatFT0aDbPJqv9O4IrvPZY3nHE2wC"
+    },
+    {
+      "name": "dart-sdk/lib/core/comparable.dart",
+      "size": 3669,
+      "hash": "vc4chrURAs8JehA55Gnqo9LMF2PmbcnVyHVoPcZZ-moC"
+    },
+    {
+      "name": "dart-sdk/lib/core/core.dart",
+      "size": 6572,
+      "hash": "9ivuq_zhxoCGW3nDjB1MguRWPspHTKpO56Mjr4POGMUC"
+    },
+    {
+      "name": "dart-sdk/lib/core/core_sources.gni",
+      "size": 923,
+      "hash": "ajHW4UD1jdSsbQKxL9WjwMNucsWqbcy5ggMSowwQbIMC"
+    },
+    {
+      "name": "dart-sdk/lib/core/date_time.dart",
+      "size": 27856,
+      "hash": "8IbIcRnZrc1XnBXkA-5qBgd46OZIEp2FJ5cWXvuDNzYC"
+    },
+    {
+      "name": "dart-sdk/lib/core/double.dart",
+      "size": 7187,
+      "hash": "a4A3Nq3L8CEUz4yMcbi7oBbnUJmDxRVlWoxp9AJ4jw0C"
+    },
+    {
+      "name": "dart-sdk/lib/core/duration.dart",
+      "size": 10045,
+      "hash": "EZxqj7v3jeeBrgd_XVjeVDizUMS2LTLDivDOa5R4CfwC"
+    },
+    {
+      "name": "dart-sdk/lib/core/errors.dart",
+      "size": 21238,
+      "hash": "Up_kHVxPAr0UVDlS6SuA95ZX-PB4bA8_5dJljYYXLTcC"
+    },
+    {
+      "name": "dart-sdk/lib/core/exceptions.dart",
+      "size": 6111,
+      "hash": "9ZAAGzE8Op-fZqgsFYsB33tHHPb9P7FEoTXz-wpd6JIC"
+    },
+    {
+      "name": "dart-sdk/lib/core/expando.dart",
+      "size": 2216,
+      "hash": "ewPx_ZBapO3dVxN6_QODphNqLsTuyETLmb1eNOzqSMUC"
+    },
+    {
+      "name": "dart-sdk/lib/core/function.dart",
+      "size": 2601,
+      "hash": "Jh4DWaAtcpiIUj4YOGItUBNygdo-Gq-xLGLw7L6XOtQC"
+    },
+    {
+      "name": "dart-sdk/lib/core/identical.dart",
+      "size": 746,
+      "hash": "XlMtgghJMiZw0ucC8kOqIvqAWl5qgPe709UKKe40qXEC"
+    },
+    {
+      "name": "dart-sdk/lib/core/int.dart",
+      "size": 11833,
+      "hash": "iEBkGyCauuDh35OaymLyTQGY-u35bkWAWGaXhM2AXVEC"
+    },
+    {
+      "name": "dart-sdk/lib/core/invocation.dart",
+      "size": 5407,
+      "hash": "KFLxzA8of-KvqJq8RPKTUmGcxo8Q4S0DmG8DXOkavFgC"
+    },
+    {
+      "name": "dart-sdk/lib/core/iterable.dart",
+      "size": 25618,
+      "hash": "um9s3txeoWwkMHFf1T5nr6SXvgWaxBvBlb0WxcQ4PDYC"
+    },
+    {
+      "name": "dart-sdk/lib/core/iterator.dart",
+      "size": 2912,
+      "hash": "FhwBtuXepN4EgLXK8f278TlPhD4MkV5Uw-cI5-xfaBwC"
+    },
+    {
+      "name": "dart-sdk/lib/core/list.dart",
+      "size": 26243,
+      "hash": "6ACivKnRO3PXoWbT75pIzdxlx4_xfkGK8YwNlIy_AVEC"
+    },
+    {
+      "name": "dart-sdk/lib/core/map.dart",
+      "size": 13461,
+      "hash": "4dsVp6NWwwRL3Y986WjSr7ojR6G5VRUiCGXk4hRkGsYC"
+    },
+    {
+      "name": "dart-sdk/lib/core/null.dart",
+      "size": 670,
+      "hash": "z3n4Q1nIRiPeoXCyJN7T_bcJ72HWQ4uaHUyHcsjaDqMC"
+    },
+    {
+      "name": "dart-sdk/lib/core/num.dart",
+      "size": 17486,
+      "hash": "zMg-MjperGLqkwE0Yt3ALlv5uho6QLIHcY912aKfszoC"
+    },
+    {
+      "name": "dart-sdk/lib/core/object.dart",
+      "size": 4196,
+      "hash": "eSnXeql5RvGlOu1HPH3srSmnRaI6nEy0LwGC9_7DJvgC"
+    },
+    {
+      "name": "dart-sdk/lib/core/pattern.dart",
+      "size": 3808,
+      "hash": "u35BtU2HI_Sv1CJavpmnatEuZsUOmj9NOxjiRn56LLAC"
+    },
+    {
+      "name": "dart-sdk/lib/core/print.dart",
+      "size": 479,
+      "hash": "xCvFfhPjDO9QKaJ4Rpc1pNPJRwA81e3iTsQyi3Kg67IC"
+    },
+    {
+      "name": "dart-sdk/lib/core/regexp.dart",
+      "size": 6435,
+      "hash": "bKuJHS2qABz0hgvlktZWFVOqHqu-zo5N5uDz90Y9p-oC"
+    },
+    {
+      "name": "dart-sdk/lib/core/set.dart",
+      "size": 9538,
+      "hash": "Fq_qZeEGF6kZXMYg4tk86DPEuI5sJRColmJv7zOIKpsC"
+    },
+    {
+      "name": "dart-sdk/lib/core/sink.dart",
+      "size": 806,
+      "hash": "3pvd4J7rh4gMHj24yzIlkgzwJMB2J3Yh_M-tAPZUijYC"
+    },
+    {
+      "name": "dart-sdk/lib/core/stacktrace.dart",
+      "size": 2241,
+      "hash": "qbxuaCwHsXA2se6rQUF1lygKUj9yqzx-AoowX07ouHEC"
+    },
+    {
+      "name": "dart-sdk/lib/core/stopwatch.dart",
+      "size": 3206,
+      "hash": "-1xE_kNYOc_I9cb6unDqLw-xcvSa7V_mwZwJYdHP8sAC"
+    },
+    {
+      "name": "dart-sdk/lib/core/string.dart",
+      "size": 29419,
+      "hash": "PanaXcMXQ5d3gkEM6MCk43eecOGGq6AGfJz-ROot4T4C"
+    },
+    {
+      "name": "dart-sdk/lib/core/string_buffer.dart",
+      "size": 1525,
+      "hash": "biG_Fs4_hmoN9d7xqoPdiA_fyHfjw2tTGDQ-pItWNzoC"
+    },
+    {
+      "name": "dart-sdk/lib/core/string_sink.dart",
+      "size": 896,
+      "hash": "-RerOm2d95xU9jTa9cek8407GD9j8xk-CZHGIc18XcsC"
+    },
+    {
+      "name": "dart-sdk/lib/core/symbol.dart",
+      "size": 3677,
+      "hash": "xonOsjEyh8IlLM0oSib4CoaulyE5Fulxo0VsryDS2hUC"
+    },
+    {
+      "name": "dart-sdk/lib/core/type.dart",
+      "size": 305,
+      "hash": "nnQiz-UTjtU7niRQe-nWDzPAVCiqDTE2kT3MhgNJeHkC"
+    },
+    {
+      "name": "dart-sdk/lib/core/uri.dart",
+      "size": 166519,
+      "hash": "QTEKfyyVypTJSa0fhXhHL8IrAZqfzBl6EiTGe1G4du8C"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/kernel/amd/dart_sdk.js",
+      "size": 5693682,
+      "hash": "5riNtJliVAN7fgrx2xcA-ORq7oqly33zXRSUHUJ8nrwC"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/kernel/amd/dart_sdk.js.map",
+      "size": 955984,
+      "hash": "TpZTxWVk2Gwjk0uKV11kwEJcxV9Y6-msPY83pJU2-VkC"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/kernel/amd/require.js",
+      "size": 86482,
+      "hash": "pfoJwHEqXsAIyLrnSB6maCnMnFE6JMQ3sZtFUrnM99kC"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/kernel/common/dart_sdk.js",
+      "size": 5421324,
+      "hash": "MookncYTlaqthbiN_cdojJ9_Ns68tl0ArQoNzVO7jvkC"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/kernel/common/dart_sdk.js.map",
+      "size": 954214,
+      "hash": "LI73paPOUHSuR8VaerEuGTSBeFQqcE4VqwqOp779X_sC"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/kernel/common/run.js",
+      "size": 616,
+      "hash": "vST0KAK9_bXyL-TC__isbi0tJ_TGphi9boVgb8Qo0AcC"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/kernel/es6/dart_sdk.js",
+      "size": 5420762,
+      "hash": "kWhP15ChNmcDUj3GrfNkiLqQlTbjyGP0tTHlTO_YwBEC"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/kernel/es6/dart_sdk.js.map",
+      "size": 954214,
+      "hash": "LI73paPOUHSuR8VaerEuGTSBeFQqcE4VqwqOp779X_sC"
+    },
+    {
+      "name": "dart-sdk/lib/dev_compiler/web/dart_stack_trace_mapper.js",
+      "size": 164101,
+      "hash": "hh5haG73aRvXY8hAzorIVZwdPfapNJz3UpB11XSCjygC"
+    },
+    {
+      "name": "dart-sdk/lib/developer/developer.dart",
+      "size": 2423,
+      "hash": "ME3-VFgRVUEXh6h-WlGbUlijHp5WGujXCdzEFmO9w98C"
+    },
+    {
+      "name": "dart-sdk/lib/developer/developer_sources.gni",
+      "size": 418,
+      "hash": "a_T9iRYJzlFEMCzWfGonYVm6lu7AC0gYxWi3Nlk2yuEC"
+    },
+    {
+      "name": "dart-sdk/lib/developer/extension.dart",
+      "size": 6331,
+      "hash": "hUJfkxmEDNsIRaOAnUW6753Mi6PGM0pMayUcQmJOnpMC"
+    },
+    {
+      "name": "dart-sdk/lib/developer/profiler.dart",
+      "size": 4212,
+      "hash": "EDQztqd-iAgpq1O4XyhhBa48-sXCglKDRq8t436WLokC"
+    },
+    {
+      "name": "dart-sdk/lib/developer/service.dart",
+      "size": 4220,
+      "hash": "7FX6LMNL6f8KfUx_1P3DveBtylgqXG23DfU7kksRcAoC"
+    },
+    {
+      "name": "dart-sdk/lib/developer/timeline.dart",
+      "size": 12649,
+      "hash": "4qU_FMGLALRE2NRJ9fP7VyZAzHXeckhGhI3vF7fdwwAC"
+    },
+    {
+      "name": "dart-sdk/lib/ffi/annotations.dart",
+      "size": 1498,
+      "hash": "Jru9N3i2j7ICy5FE156WN7lTYlHdNVmpFbraAVQCnE4C"
+    },
+    {
+      "name": "dart-sdk/lib/ffi/dynamic_library.dart",
+      "size": 1977,
+      "hash": "sLiioyKamGFBtgOnUu5wr9yuPM_3G28grkdiVzvnVwwC"
+    },
+    {
+      "name": "dart-sdk/lib/ffi/ffi.dart",
+      "size": 21977,
+      "hash": "ZxxqlGlm8-EzkNq1UK3Unn97fi33wbtNwd3QuZ3l-vEC"
+    },
+    {
+      "name": "dart-sdk/lib/ffi/ffi_sources.gni",
+      "size": 404,
+      "hash": "d9LaAhaBF4HMv3uqygZ-un5tYd50qWVvUqQw3lz1d8MC"
+    },
+    {
+      "name": "dart-sdk/lib/ffi/native_type.dart",
+      "size": 3974,
+      "hash": "1GiBY0N67G3xpfnIhUh9kDDOJH5ByGc8Gd87ZJ51wWEC"
+    },
+    {
+      "name": "dart-sdk/lib/ffi/struct.dart",
+      "size": 1371,
+      "hash": "cviZcyrQfT1wODE-Xi8za8fFC3ncIWmLFWeXS-Hj1eIC"
+    },
+    {
+      "name": "dart-sdk/lib/html/dart2js/html_dart2js.dart",
+      "size": 1279027,
+      "hash": "u9cCSml4mFoQcJXJy1v6EGviRg_5mV0S0h1kufYvaRIC"
+    },
+    {
+      "name": "dart-sdk/lib/html/dartium/nativewrappers.dart",
+      "size": 381,
+      "hash": "XMeQXpP6a0Ph1iBeZAP3ZPSwOaQmmDeMfyV3RHYsc0sC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/conversions.dart",
+      "size": 12814,
+      "hash": "kXw0FfJpCcUvsX3ZbEkGDk61DNsDZOTHfPuV7YI9GFwC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/conversions_dart2js.dart",
+      "size": 3861,
+      "hash": "SQgP4vklL4xgH0YxD9evpRjfJNzqBaVr7h63dyqBTzsC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/css_class_set.dart",
+      "size": 7526,
+      "hash": "ErwSGhK4_f5EPJSPWaZe9N5URV1HKpTDWAATL8tV1MIC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/device.dart",
+      "size": 1680,
+      "hash": "062NzPIQY4nvG-Nyyh-XVsVhFo6ys6LtQ8d9jPwhXvUC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/filtered_element_list.dart",
+      "size": 4260,
+      "hash": "IQ_Cpjvfx69Q7VhyxkfHgjXyIUeNVRE5rGXL3DwsZ7MC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/html_common.dart",
+      "size": 585,
+      "hash": "i7pOZ8EmkyP3L-tdwg28WwrYBdhW74zQeFasoBLHw-EC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/html_common_dart2js.dart",
+      "size": 924,
+      "hash": "s3zR5sw11RAGNDn38pqICF3mKgwsej2UsewrqwIdpPQC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/lists.dart",
+      "size": 1973,
+      "hash": "vg8YLM9ePZK6dWlLFsPBswbCp2YVZjW79QtCTZvOK8IC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_common/metadata.dart",
+      "size": 1922,
+      "hash": "_uvh4P2bBolfCx2BZKbWHfZ4B-OqDWWplzpO7fBUYIIC"
+    },
+    {
+      "name": "dart-sdk/lib/html/html_sources.gni",
+      "size": 265,
+      "hash": "M8VTZPmFKoFtALlHTWtwyyj8yfEBMpSX6PLWknlaE50C"
+    },
+    {
+      "name": "dart-sdk/lib/indexed_db/dart2js/indexed_db_dart2js.dart",
+      "size": 39357,
+      "hash": "00lN7Ia48hq_iUvWQST1q-slwhLW5fwlTPMWCwEBCQUC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/async_cast.dart",
+      "size": 3764,
+      "hash": "VkNYZhkuK2zCUhgMHR9KWn9tU8kvNZFRLzPjaY1Uf2cC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/bytes_builder.dart",
+      "size": 6551,
+      "hash": "rY9_0tKYxuOa52InuPGFUqAMFtFUl5SlZ243csdZM38C"
+    },
+    {
+      "name": "dart-sdk/lib/internal/cast.dart",
+      "size": 9888,
+      "hash": "5GNySo-jQruu-h-IYpnRIM68ChIo6VdGBnxqU0itesIC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/errors.dart",
+      "size": 575,
+      "hash": "ncwKAc9QWXwnyaUlVCavEE0ugbmBQiGD5pW1qh985dYC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/internal.dart",
+      "size": 15577,
+      "hash": "ev49O_I4X5gL4CBq7b9fqjjEeiPoeM9T9QJmLAZha9sC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/internal_sources.gni",
+      "size": 573,
+      "hash": "LV1u5sCrMy9g71DCCLvzcEOfWF4oqMvbOcrbPpfFtOkC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/iterable.dart",
+      "size": 24343,
+      "hash": "RNrhpBE7m7yBkt3QK1Tb3OZUzNiEqog2GQCx7gDizugC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/linked_list.dart",
+      "size": 3406,
+      "hash": "a7xg8U91hzVmvV6j5uPDRVWv4bFNB0BNfC6qKvz74j8C"
+    },
+    {
+      "name": "dart-sdk/lib/internal/list.dart",
+      "size": 11995,
+      "hash": "Lu9zvxK23dKh6bxWTSmYikNhMJOaYsIEv7s6gkizEisC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/patch.dart",
+      "size": 317,
+      "hash": "5iMs5qLaDA3b7VvVaIywew476O6tyTm1V2_sIDS7d6wC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/print.dart",
+      "size": 566,
+      "hash": "5SmBO-LA3mpjEwdoN8JLOhPPdfjkLSvAjIkm2eoolakC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/sort.dart",
+      "size": 12229,
+      "hash": "F37ypKZEY8PXHwg2iJoJ6tDIOKpOqnNaY_cAyqJIw6UC"
+    },
+    {
+      "name": "dart-sdk/lib/internal/symbol.dart",
+      "size": 4798,
+      "hash": "Cia_YhUQcq2Zob7qMe4np4b8KovhqsJdg-egQHeXXCYC"
+    },
+    {
+      "name": "dart-sdk/lib/io/common.dart",
+      "size": 3779,
+      "hash": "rWP0N1FC9vBMibn5R93tzxxZqFWewC9R_2Vmm7sWl38C"
+    },
+    {
+      "name": "dart-sdk/lib/io/data_transformer.dart",
+      "size": 22057,
+      "hash": "TxOgRIoRKrzmBzX_MwuzkM5Hqh3VclOqasy3f9QXQZkC"
+    },
+    {
+      "name": "dart-sdk/lib/io/directory.dart",
+      "size": 11877,
+      "hash": "p4592IK3sfogZqZtIVHl-zO8lu6otQc6Z6Fb2tsK0VgC"
+    },
+    {
+      "name": "dart-sdk/lib/io/directory_impl.dart",
+      "size": 14189,
+      "hash": "kjeRpOOVq-YpuxTuZM4zI2pjeDc0FUXrmA69pCE558sC"
+    },
+    {
+      "name": "dart-sdk/lib/io/embedder_config.dart",
+      "size": 1768,
+      "hash": "OnsngUOB-YpYLmua6me7-B0dIMYLex_y4p45OWW5qREC"
+    },
+    {
+      "name": "dart-sdk/lib/io/eventhandler.dart",
+      "size": 338,
+      "hash": "nlMSOv1_3owtHKf3xEU5daD7MI9SZzh_ZfSo8TuqA88C"
+    },
+    {
+      "name": "dart-sdk/lib/io/file.dart",
+      "size": 33743,
+      "hash": "ubhYHZLLDMaQv-yZFOWSyUNVlNHLvnxdUwLR8MgpURAC"
+    },
+    {
+      "name": "dart-sdk/lib/io/file_impl.dart",
+      "size": 33486,
+      "hash": "7jMHL_-U9fuBacuuYrgsVxwJBuxq6KQvyd9le3S5S_UC"
+    },
+    {
+      "name": "dart-sdk/lib/io/file_system_entity.dart",
+      "size": 36912,
+      "hash": "pX_-hk8itqDDkWfz9RgJcFI8ftn5QzC5uTCU9p1nf-wC"
+    },
+    {
+      "name": "dart-sdk/lib/io/io.dart",
+      "size": 8192,
+      "hash": "ozJwRC3cBZc6nU2rJWVHpdYw61nLApudP3B8f7UsmqIC"
+    },
+    {
+      "name": "dart-sdk/lib/io/io_resource_info.dart",
+      "size": 8632,
+      "hash": "9thpFRs1oIBTjthvg0duKNrkAPifg5OaBVMNkUyxQlUC"
+    },
+    {
+      "name": "dart-sdk/lib/io/io_service.dart",
+      "size": 2087,
+      "hash": "KZVqmOKIO8OI4BgPkHrMNP1UjsTPjqRFtFVjpqw6ByAC"
+    },
+    {
+      "name": "dart-sdk/lib/io/io_sink.dart",
+      "size": 9331,
+      "hash": "jdwJiRzvhMJn2oSSsmieIvnvQzIjrzjSHqx7AeM7FAoC"
+    },
+    {
+      "name": "dart-sdk/lib/io/io_sources.gni",
+      "size": 936,
+      "hash": "6_a_uGlHGzzWplPNoSvMSLP50C8zlcfJchP7nZafouYC"
+    },
+    {
+      "name": "dart-sdk/lib/io/link.dart",
+      "size": 10247,
+      "hash": "vezE5ojyjsOF7csCSrLoVMKVMrDeNdEUGfKjwoaYtioC"
+    },
+    {
+      "name": "dart-sdk/lib/io/namespace_impl.dart",
+      "size": 1150,
+      "hash": "TZlr1ICv0Xy4HJ88oC_b0ePJS95lZKBYgp6IPHaw3DYC"
+    },
+    {
+      "name": "dart-sdk/lib/io/network_policy.dart",
+      "size": 6887,
+      "hash": "bgk89hZERO4_kqX1uoJEMwDViLeTv87YnZLy0D-EkXIC"
+    },
+    {
+      "name": "dart-sdk/lib/io/network_profiling.dart",
+      "size": 7977,
+      "hash": "evDIx8SGdUR4U_IHRxQObIml1oqy-c0KJpikbxANZewC"
+    },
+    {
+      "name": "dart-sdk/lib/io/overrides.dart",
+      "size": 16237,
+      "hash": "O6g2JObQ5hIGzF84EtBHvmZHUg2Q1saW1FD7LxW00AUC"
+    },
+    {
+      "name": "dart-sdk/lib/io/platform.dart",
+      "size": 7426,
+      "hash": "HOIIHiZ9gOceyQYQTK9E9MhIadShh-knu3rSUDJwDxkC"
+    },
+    {
+      "name": "dart-sdk/lib/io/platform_impl.dart",
+      "size": 5659,
+      "hash": "kZWJUUKL_bOpZrmJ8EN1V4ZYwV-VdFaekJPOgz20W-8C"
+    },
+    {
+      "name": "dart-sdk/lib/io/process.dart",
+      "size": 26342,
+      "hash": "FYNqQ5HBIEdvXsrts4H7ifcYb20MzaW0edMrhcDAgwIC"
+    },
+    {
+      "name": "dart-sdk/lib/io/secure_server_socket.dart",
+      "size": 10853,
+      "hash": "JMUV3TNzcpHM5o2A7ZQ9QLM_jgbjTCB_WaSB5cwh0uUC"
+    },
+    {
+      "name": "dart-sdk/lib/io/secure_socket.dart",
+      "size": 44666,
+      "hash": "EA8AgLMi51uqc9YxiHobc7mrxxBJYBdCM7DUrD4ODGcC"
+    },
+    {
+      "name": "dart-sdk/lib/io/security_context.dart",
+      "size": 11213,
+      "hash": "C-ArwtJij_KanXKG057NPogfyzEtrHO28lb7qvirm9MC"
+    },
+    {
+      "name": "dart-sdk/lib/io/service_object.dart",
+      "size": 746,
+      "hash": "HDgcPM2h2UsNXDy70rV6l9YLLyNxQDoPwfhkIISPjHMC"
+    },
+    {
+      "name": "dart-sdk/lib/io/socket.dart",
+      "size": 39260,
+      "hash": "3M8xtZh2d3RW8gxhZabMdDw3raerW3kPzRBdStXczbIC"
+    },
+    {
+      "name": "dart-sdk/lib/io/stdio.dart",
+      "size": 14639,
+      "hash": "rFoftV8AruU59Wav9-GQqguMhnO4TeDFj9zmX5QBmfkC"
+    },
+    {
+      "name": "dart-sdk/lib/io/string_transformer.dart",
+      "size": 3546,
+      "hash": "p5vdirUxaOvbx5CVISRdBllG6u4e9LNzc55iqnekKFUC"
+    },
+    {
+      "name": "dart-sdk/lib/io/sync_socket.dart",
+      "size": 4053,
+      "hash": "B_WsjFGkiyna1f8GjihrgF0LvurUdKOkOs2ldh8vqnEC"
+    },
+    {
+      "name": "dart-sdk/lib/isolate/capability.dart",
+      "size": 1257,
+      "hash": "8GEsgz6MtuKbXTxaG58ebCd73q_2tJD_U6TFBnr3mtQC"
+    },
+    {
+      "name": "dart-sdk/lib/isolate/isolate.dart",
+      "size": 30733,
+      "hash": "7XiXRzlPP1tcGlc3PN36H0Zy1XRRUapK1u0tCzr3To8C"
+    },
+    {
+      "name": "dart-sdk/lib/isolate/isolate_sources.gni",
+      "size": 346,
+      "hash": "RjL6j2EWvTmnKzbQbaeMG3GguQtf7V-l_tzBk45lKBcC"
+    },
+    {
+      "name": "dart-sdk/lib/js/_js.dart",
+      "size": 945,
+      "hash": "htufAwpGLYftZ5dKbgUd8Gvn1Onty034Es0rFQ_5PLkC"
+    },
+    {
+      "name": "dart-sdk/lib/js/_js_annotations.dart",
+      "size": 650,
+      "hash": "tWNoF6XGF7LAs-CUwKIQuMF-li_Kty_A5KxQARdexK8C"
+    },
+    {
+      "name": "dart-sdk/lib/js/_js_client.dart",
+      "size": 732,
+      "hash": "UA0CPUXoCYrQais7wgsMgGvAFyzfy5nfdiISZfBc3MwC"
+    },
+    {
+      "name": "dart-sdk/lib/js/_js_server.dart",
+      "size": 361,
+      "hash": "J6JQ-xEVSpfxDYByi43cOW18QEwCzRb60vqG15Tu08IC"
+    },
+    {
+      "name": "dart-sdk/lib/js/js.dart",
+      "size": 9023,
+      "hash": "IlPEav4MXjHfprUm0UN9vrEkWni8l3op6Mrw4UGrDk8C"
+    },
+    {
+      "name": "dart-sdk/lib/js/js_sources.gni",
+      "size": 245,
+      "hash": "Qy_SuIN_bM5WyY3tnTk3PMNWtUmKSGXmn3SD_aBAxDsC"
+    },
+    {
+      "name": "dart-sdk/lib/js_util/js_util.dart",
+      "size": 5829,
+      "hash": "cwGO9FctMeopoM5_4QYWH_o1u7duUbhv_o0FiSKd3wMC"
+    },
+    {
+      "name": "dart-sdk/lib/js_util/js_util_sources.gni",
+      "size": 255,
+      "hash": "Uy1lj26-5DDkd_WPfIjw0zLDsaleoPYlIG8XvkmJfrgC"
+    },
+    {
+      "name": "dart-sdk/lib/libraries.json",
+      "size": 14869,
+      "hash": "LbIAt5UgqoBr0GHOYc_y3F-EvINbLe8Ob7Gp46rCUdoC"
+    },
+    {
+      "name": "dart-sdk/lib/math/jenkins_smi_hash.dart",
+      "size": 1356,
+      "hash": "sZUMVqS70DWecO3iYIJBXegGsxqb5scffwq9DztXgNIC"
+    },
+    {
+      "name": "dart-sdk/lib/math/math.dart",
+      "size": 6472,
+      "hash": "vz82kGyetpTMd2a86RWp8tFGUGx466WGvUFt7culS4UC"
+    },
+    {
+      "name": "dart-sdk/lib/math/math_sources.gni",
+      "size": 399,
+      "hash": "IUA0SKW9ZHl_4joOxbCap5E6CoyDAGsQT64UK66iZJQC"
+    },
+    {
+      "name": "dart-sdk/lib/math/point.dart",
+      "size": 2456,
+      "hash": "xlmGpIlnJXGzcvULe2Tnmt1MjUzG4C-8F054sogItO8C"
+    },
+    {
+      "name": "dart-sdk/lib/math/random.dart",
+      "size": 1533,
+      "hash": "9HyrTXwBGSRxOymoh0DLsCa_226oKKMAur9JY8hYoNQC"
+    },
+    {
+      "name": "dart-sdk/lib/math/rectangle.dart",
+      "size": 8569,
+      "hash": "lOkotGZKoR7nczXMpsE27n-UsubVOw-Hcj5cP5HrGBIC"
+    },
+    {
+      "name": "dart-sdk/lib/mirrors/mirrors.dart",
+      "size": 49961,
+      "hash": "T1rH_nbh0Jt6-X7W3xJ-vosL9vNooLvMJ1nj-Dv2OmQC"
+    },
+    {
+      "name": "dart-sdk/lib/mirrors/mirrors_sources.gni",
+      "size": 337,
+      "hash": "yn6wemlpid8302MbwBVgPYzUSEMp0LS2yJQp7lerG88C"
+    },
+    {
+      "name": "dart-sdk/lib/svg/dart2js/svg_dart2js.dart",
+      "size": 129641,
+      "hash": "QKtCXZs9vE2hbzpHsdc6Ssu4NS2AQs0XL1HQgLw_0eYC"
+    },
+    {
+      "name": "dart-sdk/lib/typed_data/typed_data.dart",
+      "size": 124843,
+      "hash": "I3mdUS1HhoShVXiGBo02_U3EmORrbPAMWebaDhSTcxgC"
+    },
+    {
+      "name": "dart-sdk/lib/typed_data/typed_data_sources.gni",
+      "size": 378,
+      "hash": "6rlHOfG11YTRRJM6UeA0-FLpj89sqzmXoyP_O436YnwC"
+    },
+    {
+      "name": "dart-sdk/lib/typed_data/unmodifiable_typed_data.dart",
+      "size": 11424,
+      "hash": "U1mdfD7vBEwgn6yEAf1BF5Mw0fYQ09yshdELghIlNCEC"
+    },
+    {
+      "name": "dart-sdk/lib/wasm/wasm.dart",
+      "size": 2662,
+      "hash": "meKDX2rGLJ5jIN4HqPRIJQsi-_9LeVqcGO-FBnQ_N5MC"
+    },
+    {
+      "name": "dart-sdk/lib/wasm/wasm_sources.gni",
+      "size": 249,
+      "hash": "y_JQV87_ECZxGED5uY7OWmouAT9429FDu5vVdEKRLqsC"
+    },
+    {
+      "name": "dart-sdk/lib/web_audio/dart2js/web_audio_dart2js.dart",
+      "size": 43883,
+      "hash": "tJXiTqyItcSK8-CJQK8TDRDC6MCt41iZb3dNrDcnVssC"
+    },
+    {
+      "name": "dart-sdk/lib/web_gl/dart2js/web_gl_dart2js.dart",
+      "size": 124667,
+      "hash": "tnWcLcYii5EAfj2O1qFM3AmX2hWufhn7DUq0otOngRgC"
+    },
+    {
+      "name": "dart-sdk/lib/web_sql/dart2js/web_sql_dart2js.dart",
+      "size": 9937,
+      "hash": "qpnpjT9MwVCTWppE4uQ_-Q6cai8sQRvMzLAGZ-74BZcC"
+    },
+    {
+      "name": "dart-sdk/revision",
+      "size": 42,
+      "hash": "BCQJzGPjwBzG5DDnRQU4SrdV2KD_67vPfo-eOvqO1PQC"
+    },
+    {
+      "name": "dart-sdk/version",
+      "size": 19,
+      "hash": "yEieRrvBQfJoRvuP2XeulAb9GP2vjPCvCS56ilYd1akC"
+    }
+  ]
+}
